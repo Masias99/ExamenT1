@@ -20,9 +20,11 @@ Hibernate 5.6
 MySQL
 Maven
 IntelliJ IDEA
-Integrantes del Proyecto
-N°	Integrante
-1	Josue Obed Arizapana Alejo
-2	Raul Anderson Masias Chipana
-3	Diego Cesar Arroyo Prospio
-4	__________________________________
+## Integrantes del Proyecto
+
+| N° | Integrante |
+|----|------------|
+| 1 | Josue Obed Arizapana Alejo |
+| 2 | Raul Anderson Masias Chipana |
+| 3 | Diego Cesar Arroyo Prospio |
+| 4 | Jorge Rondon | 
